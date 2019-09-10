@@ -1,6 +1,6 @@
 # Knuth-Bendix algorithm for monoids
 
-Small utility for computing word 
+Small utility for computing word rewriting systems for a given monoid presentation.
 
 Based on [wikipedia article on Knuth-Bendix in monoids](https://en.wikipedia.org/wiki/Knuth%E2%80%93Bendix_completion_algorithm)
 
@@ -17,7 +17,7 @@ python generate_Sn_presentation.py $DIM
 ```
 will produce a
 ```
-S{$DIMENSION}_presentation.json
+S{$DIM}_presentation.json
 ```
 file with appropriate description.
 
