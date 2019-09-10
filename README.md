@@ -11,7 +11,7 @@ python knuth_bendix.py $INPUT_FILE
 ```
 will produce a list of rules to standard output. Rules are read from left to right.
 
-There is also a utility for generating Coxeter presentation of $S_n$. Running
+There is also a utility for generating Coxeter presentation of full symmetric group Sn. Running
 ```
 python generate_Sn_presentation.py $DIM
 ```
