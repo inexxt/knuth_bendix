@@ -24,7 +24,7 @@ file with appropriate description.
 
 ## Examples
 
-Example input file, for $S_5$ as a Coxeter group:
+Example input file, for full symmetric group S5 presented as a Coxeter group:
 ```json
 {
     "N": 5, 
